@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+div {
+  border: 1px solid orchid;
+  margin: 10px;
+}
+
+.app {
+  padding: 50px;
+  border-color: #000;
+}
